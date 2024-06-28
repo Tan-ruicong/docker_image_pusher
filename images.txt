@@ -1,1 +1,1 @@
-archfx/cleo
+scarv/libscarv.riscv-xcrypto:1.0.0
